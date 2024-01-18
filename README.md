@@ -24,6 +24,6 @@
 Procurando ser melhor, uma linha de código de cada vez.
 
 ## contatos
-- [email profissional para contato](santosfelipesantos@gmail.com) <br/>
+- [Email profissional para contato](santosfelipesantos@gmail.com) <br/>
 - [Linkedin](https://www.linkedin.com/in/santosfelipesantos/)<br/>
-- [whatsapp](https://wa.me/559291309564)<br/>
+- [Whatsapp](https://wa.me/559291309564)<br/>
