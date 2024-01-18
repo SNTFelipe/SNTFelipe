@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNTFelipe)](https://github.com/anuraghazra/github-readme-stats)
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" align="right" style="max-width: 100%;"></a>
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
