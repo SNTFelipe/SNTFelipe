@@ -7,7 +7,7 @@
 
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SNTFelipe&show_icons=true&theme=merko)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTFelipe&layout=compact&theme=merko" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTFelipe&layout=compact&theme=merko" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTFelipe&layout=compact&theme=merko" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTFelipe&layout=compact&theme=merko" align="right" style="max-width: 100%;">
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" align="right" style="max-width: 100%;"></a>
 
