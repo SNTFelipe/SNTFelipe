@@ -30,3 +30,6 @@ Procurando ser melhor, uma linha de código de cada vez.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santosfelipesantos.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/santosfelipesantos/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559291309564)
+
+
+ ![Snake animation](https://github.com/bessax/bessax/blob/output/github-contribution-grid-snake.svg)  
